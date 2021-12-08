@@ -1,3 +1,7 @@
 //First Git Pull
 //Sevinc 
+<<<<<<< HEAD
 //Ozmen
+=======
+//Ozmen
+>>>>>>> 7b331362db0511f2e96567a93482c546f28092dd
